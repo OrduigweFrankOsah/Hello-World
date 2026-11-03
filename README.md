@@ -1,2 +1,2 @@
 # Hello-World
-This repository is for practicing GitHub flow
+And this is used for academic purposes only
